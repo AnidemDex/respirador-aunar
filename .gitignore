@@ -1,0 +1,5 @@
+# GUISlicer builder files
+gui_backup/
+*.prj
+*.bak
+*.tmp
